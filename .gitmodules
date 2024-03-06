@@ -1,0 +1,8 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/secs-dev/itmo-chan-client.git
+	branch = dev/kimiega-dev
+[submodule "server"]
+	path = server
+	url = https://github.com/secs-dev/itmo-chan-server.git
+	branch = kimiega-updates-2
