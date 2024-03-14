@@ -5,4 +5,4 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/secs-dev/itmo-chan-server.git
-	branch = kimiega-updates-2
+	branch = main
